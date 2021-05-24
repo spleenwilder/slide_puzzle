@@ -10,5 +10,8 @@ and other settings can be changed in the config.hpp file. The
 MapData.cpp file is where new levels are created and loaded 
 into the game.
 
+Thanks to javidx9 (https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) 
+for tutorials on how to set up the command prompt as a game screen!
+
 Thanks to http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 
 for the ASCII art!
